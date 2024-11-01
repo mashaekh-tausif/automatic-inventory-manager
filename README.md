@@ -1,7 +1,7 @@
 Automatic Inventory Manager
 ===========================
 
-![Project Image]()
+![Project Image](https://github.com/mashaekh-tausif/automatic-inventory-manager/blob/912bf1c7cbfc3dac9699632f8b11c5be9a4b52b9/poster.jpg)
 
 Overview
 --------
