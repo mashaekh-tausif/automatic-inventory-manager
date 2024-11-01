@@ -73,6 +73,3 @@ Contact
 -------
 For more information or collaboration inquiries, please contact any of the team members.
 
-License
--------
-This project is licensed under the MIT License. See LICENSE.txt for more details.
